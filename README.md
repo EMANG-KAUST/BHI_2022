@@ -1,5 +1,4 @@
-#  Spectrogram Image-based Machine Learning model for Carotid-to-Femoral Pulse Wave Velocity
-Estimation using PPG signal (BHI conference 2022)
+#  Spectrogram Image-based Machine Learning model for Carotid-to-Femoral Pulse Wave Velocity Estimation using PPG signal (BHI conference 2022)
 
 In this repository you can find the implementation presented in the paper Spectrogram Image-based Machine Learning model for Carotid-to-Femoral Pulse Wave Velocity
 Estimation using PPG signal.
