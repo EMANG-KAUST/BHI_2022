@@ -7,5 +7,7 @@ In the BHI-conference forder, you can find the implementation of the different f
 in python. In order to use the codes you need to follow the next steps:
 
 1- Select the .m file corresponding to the different feature extraction methods.
+
 2- Select the level of noise desired as SNR (In the paper we present the result with Noise-free , 20 dB, 15 dB, 10 dB).
+
 3- Run the .m file (You don't need to run the .py code).
